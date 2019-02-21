@@ -1,0 +1,17 @@
+node_modules/
+*/node_modules/
+dist/
+*/dist/
+.idea
+*/.idea
+.DS_Store
+*/.DS_Store
+files/*
+tmp/
+*.log
+*/*.log
+*.project
+*/*.project
+upload-files/
+options/config.js
+package-lock.json
